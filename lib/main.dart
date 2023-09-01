@@ -106,11 +106,11 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'hello_world',
+              'Adinda Kurnia Rifanti',
             ),
-            // const Text(
-            //   '2141720100 ',
-            // ),
+            const Text(
+              '2141720100 ',
+            ),
             // Text(
             //   '$_counter',
             //   style: Theme.of(context).textTheme.headlineMedium,
